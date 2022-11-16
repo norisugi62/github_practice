@@ -5,3 +5,4 @@ fetch
 pull --rebase
 pull
 pull2
+pull3
